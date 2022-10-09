@@ -1,0 +1,47 @@
+/* This isn't a comment! */
+
+body {
+    background-color:aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+header, footer {
+    background-color: lightskyblue;
+}
+
+.site-title {
+    color:darkgoldenrod;   
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
+
+.hobbies {
+    list-style-type: square;   
+}
+
+div ul li:nth-child(odd) {
+background-color: cadetblue;
+}
+
+nav ul {
+    list-style-type: none; border-style:outset; border-width:medium;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: goldenrod;
+}
+
+a:hover {
+    color:darkcyan
+}
+
+a:active {
+    color: cyan;
+}
