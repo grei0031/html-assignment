@@ -27,7 +27,7 @@ background-color: cadetblue;
 }
 
 nav ul {
-    list-style-type: none; border-style:outset; border-width:medium; color:goldenrod;
+    list-style-type: none; border-style:outset; border-width:medium; color:darkgoldenrod;
 }
 
 nav ul li a {
