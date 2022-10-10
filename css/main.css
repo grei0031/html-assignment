@@ -35,7 +35,7 @@ nav ul li a {
 }
 
 a:visited {
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 
 a:hover {
@@ -43,5 +43,5 @@ a:hover {
 }
 
 a:active {
-    color: cyan;
+    color: gold;
 }
